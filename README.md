@@ -1,2 +1,6 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Test area 2
+- edit1
+- edit2
+# about me 
+
+my name is thierry
